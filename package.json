@@ -1,0 +1,20 @@
+{
+  "name": "omega-content-ai",
+  "version": "1.0.0",
+  "description": "OMEGA CONTENT AI AGENT \u2014 Fully autonomous AI content studio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo 'No tests yet'"
+  },
+  "keywords": [
+    "ai",
+    "content-creation",
+    "autonomous-agents",
+    "youtube",
+    "tiktok",
+    "video-production"
+  ],
+  "author": "Rabiu Hamza Mohammed",
+  "license": "MIT"
+}
